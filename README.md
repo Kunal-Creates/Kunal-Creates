@@ -1,18 +1,5 @@
-Kunal Singh
-UI/UX Designer & iOS Development Enthusiast
-I'm a UI/UX Designer with expertise in Figma and a growing interest in iOS Development. I create intuitive digital experiences while expanding my development skills.
-Current Focus
-
-Mastering UI/UX design with Figma
-Adapting web designs to mobile experiences
-Learning Swift for iOS development
-
-What I Do
-
-Design user-centered interfaces that solve real problems
-Collaborate with developers to bring ideas to life
-Develop as a T-shaped professional with deep design knowledge
+Kunal is a self-taught designer on a mission to make digital experiences so smooth, they practically glide. Armed with a Google UI/UX Certificate, a year of intense learning, and Figma skills sharper than a designer’s critique, he’s also dabbled in HTML, CSS, and C—just enough to keep developers guessing.
 
 Let's Connect
 I enjoy collaborating on creative projects. If you're looking to create something impactful, let's work together.
-📧 designer.kunalsingh@gmail.com
+📧 sankritsingh345@gmail.com
