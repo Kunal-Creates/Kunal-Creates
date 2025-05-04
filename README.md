@@ -4,4 +4,4 @@ My toolkit includes HTML, CSS, some JavaScript, and I’m currently learning Rus
 
 Let's Connect
 I enjoy collaborating on creative projects. If you're looking to create something impactful, let's work together.
-📧 sankritsingh345@gmail.com
+📧 madebykunal@gmail.com
