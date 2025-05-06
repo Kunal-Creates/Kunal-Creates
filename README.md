@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/hvRJclFzJl92ybwyWP/giphy.gif" width="300" alt="Animated Hello">
+  <img src="https://i.giphy.com/media/vFN7zSi5iekI/giphy.gif" width="300" alt="Hello Code GIF">
   <h1>Hi there! 👋 I'm Kunal</h1>
   <p>A Product Designer with a growing passion for AI-powered web development and a drive to innovate.</p>
 </div>
@@ -9,8 +9,8 @@
 - 🎨 **Product Design:** Keen eye for UI/UX principles.
 - 💻 **Web Development (AI-Assisted):** Proficient in HTML & CSS. Currently building with AI tools.
 - 🚀 **Projects in Progress:**
-  - [Playz](https://kunal-creates.github.io/Playz/): (Brief description of Playz - e.g., A fun platform for...)
-  - [UtiliCraft](https://kunal-creates.github.io/UtiliCraft/): (Brief description of UtiliCraft - e.g., A utility tool focused on...)
+  - **Playz:** An open-source platform to play online single and multiplayer games for free, ensuring full privacy and safety.
+  - **UtiliCraft:** A collection of free online tools (like a Markdown Editor and Image Compressor, with more to come!), emphasizing no login requirements, open-source principles, and the security of Rust + WebAssembly.
 - 🦀 **Learning:** Currently exploring the depths of Rust.
 - ✍️ **Portfolio:** Check out my curated work at [madebykunal.pages.dev](https://madebykunal.pages.dev).
 - 🌱 **Future Goals:** Aspiring to become a proficient Rust developer and continue creating innovative digital solutions.
