@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.giphy.com/media/vFN7zSi5iekI/giphy.gif" width="300" alt="Hello Code GIF">
+  <img src="https://media.giphy.com/media/SWoXeGAxPCunxHh3zQ/giphy.gif" width="300" alt="Hello Code GIF">
   <h1>Hi there! 👋 I'm Kunal</h1>
   <p>A Product Designer with a growing passion for AI-powered web development and a drive to innovate.</p>
 </div>
@@ -30,7 +30,8 @@
 <div align="center">
   ✨ "The only way to do great work is to love what you do." - Steve Jobs ✨
 </div>
-Let's Connect
 
+
+Let's Connect
 I enjoy collaborating on creative projects. If you're looking to create something impactful, let's work together.
 📧 madebykunal@gmail.com
