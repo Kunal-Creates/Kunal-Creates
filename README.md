@@ -22,7 +22,7 @@
 
 ### 🔗 Connect with Me
 
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](www.linkedin.com/in/kunal-creates)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/kunal-creates)
 [![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)](https://github.com/Kunal-Creates)
 ---
 
@@ -33,6 +33,6 @@
 <div align="center">
   <br>
   <br>
-  🤝 Let's Connect! 
-  I enjoy collaborating on creative projects. If you're looking to create something impactful, let's work together. 📧 madebykunal@gmail.com
+  🤝 Let's Connect!
+  I enjoy collaborating on creative projects. If you're looking to create something impactful, let's work together. 📧 <a href="mailto:madebykunal@gmail.com">madebykunal@gmail.com</a>
 </div>
