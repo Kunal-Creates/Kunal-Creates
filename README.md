@@ -22,8 +22,8 @@
 
 ### 🔗 Connect with Me
 
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/kunal-creates)
-[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)](https://github.com/Kunal-Creates)
+<a href="https://www.linkedin.com/in/kunal-creates" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn"></a>
+<a href="https://github.com/Kunal-Creates" target="_blank"><img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github" alt="GitHub"></a>
 ---
 
 <div align="center">
