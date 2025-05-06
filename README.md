@@ -11,13 +11,13 @@
   - **Playz:** An open-source platform to play online single and multiplayer games for free, ensuring full privacy and safety.
   - **UtiliCraft:** A collection of free online tools (like a Markdown Editor and Image Compressor, with more to come!), emphasizing no login requirements, open-source principles, and the security of Rust + WebAssembly.
 - 🦀 **Learning:** Currently exploring the depths of Rust.
-- ✍️ **Portfolio:** Check out my curated work at [madebykunal.pages.dev](https://madebykunal.pages.dev).
+- ✍️ **Portfolio:** Check out my curated work at <a href="https://madebykunal.pages.dev" target="_blank">madebykunal.pages.dev</a>.
 - 🌱 **Future Goals:** Aspiring to become a proficient Rust developer and continue creating innovative digital solutions.
 
 ### 🔭 Current Focus
 
 - Refining my skills in Product Design.
-- Building and iterating on [Playz](https://kunal-creates.github.io/Playz/) and [UtiliCraft](https://kunal-creates.github.io/UtiliCraft/).
+- Building and iterating on <a href="https://kunal-creates.github.io/Playz/" target="_blank">Playz</a> and <a href="https://kunal-creates.github.io/UtiliCraft/" target="_blank">UtiliCraft</a>.
 - Deepening my understanding of Rust.
 
 ### 🔗 Connect with Me
@@ -34,5 +34,5 @@
   <br>
   <br>
   🤝 Let's Connect!
-  I enjoy collaborating on creative projects. If you're looking to create something impactful, let's work together. 📧 <a href="mailto:madebykunal@gmail.com">madebykunal@gmail.com</a>
+  I enjoy collaborating on creative projects. If you're looking to create something impactful, let's work together. 📧 <a href="mailto:madebykunal@gmail.com" target="_blank">madebykunal@gmail.com</a>
 </div>
