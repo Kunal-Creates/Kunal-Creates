@@ -31,5 +31,6 @@
   ✨ "The only way to do great work is to love what you do." - Steve Jobs ✨
 </div>
 Let's Connect
+
 I enjoy collaborating on creative projects. If you're looking to create something impactful, let's work together.
 📧 madebykunal@gmail.com
