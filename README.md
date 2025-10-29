@@ -6,7 +6,7 @@
 ### 🛠️ Tech Stack & Interests
 
 - 🎨 **Product Design:** Keen eye for UI/UX principles.
-- 💻 **Web Development (AI-Assisted):** Proficient in HTML & CSS. Currently building with AI tools.
+- 💻 **Web Development (AI-Assisted):** Proficient in HTML/CSS, JS, ReactJS. Currently developing skills in NextJS.
 - 🚀 **Projects in Progress:**
   - **Playz:** An open-source platform to play online single and multiplayer games for free, ensuring full privacy and safety.
   - **UtiliCraft:** A collection of free online tools (like a Markdown Editor and Image Compressor, with more to come!), emphasizing no login requirements, open-source principles, and the security of Rust + WebAssembly.
