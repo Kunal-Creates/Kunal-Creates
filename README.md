@@ -18,7 +18,7 @@
 
 - Refining my skills in Product Design.
 - Building and iterating on <a href="https://kunal-creates.github.io/Playz/" target="_blank">Playz</a> and <a href="https://kunal-creates.github.io/UtiliCraft/" target="_blank">UtiliCraft</a>.
-- Deepening my understanding of Rust.
+- Deepening my understanding of Web & Design.
 
 ### 🔗 Connect with Me
 
